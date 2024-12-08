@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'EudoxusSans';
+    src: url('../fonts/eudoxus/EudoxusSans-Bold.woff2') format('woff2'),
+      url('../fonts/eudoxus/EudoxusSans-Bold.woff') format('woff'),
+      url('../fonts/eudoxus/EudoxusSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'EudoxusSans';
+    src: url('../fonts/eudoxus/EudoxusSans-Medium.woff2') format('woff2'),
+      url('../fonts/eudoxus/EudoxusSans-Medium.woff') format('woff'),
+      url('../fonts/eudoxus/EudoxusSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'EudoxusSans';
+    src: url('../fonts/eudoxus/EudoxusSans-Regular.woff2') format('woff2'),
+      url('../fonts/eudoxus/EudoxusSans-Regular.woff') format('woff'),
+      url('../fonts/eudoxus/EudoxusSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'EudoxusSans';
+    src: url('../fonts/eudoxus/EudoxusSans-ExtraBold.woff2') format('woff2'),
+      url('../fonts/eudoxus/EudoxusSans-ExtraBold.woff') format('woff'),
+      url('../fonts/eudoxus/EudoxusSans-ExtraBold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  
+  
