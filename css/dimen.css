@@ -1,16 +1,7 @@
 
 :root {
-    --jt-content-width: 80%;
-    --jt-app-preview-width: 95%;
-    --jt-app-preview-max-width: 1540px;
-    --jt-feature-content-width: 78%;
-    --jt-feature-content-max-width: 1360px;
-    --jt-content-max-width: 1280px;
-    --jt-auth-width: 90%;
-    --jt-auth-max-width: 300px;
-    --jt-public-content-width: 43%;
-    --jt-public-content-max-width: 700px;
-    
+    --jt-content-width: 90%;
+    --jt-content-max-width: 1080px;
 }
 
 

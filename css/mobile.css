@@ -1,73 +1,38 @@
 @media (max-width: 768px) {
 
-    .images-container{
-        flex-direction: column;
-        gap: 10px;
-    }
+  .header-image img{
+    width: 200%;
+    margin-top: 0px;
+    max-width: 4000px;
 
-    .images-container .col{
-        gap: 10px;
-    }
+  }
 
-    .header-floater a.hpricing,
-    .header-floater a.hfeatures {
-      display: none;
-    }
+  .header-image{
+    height: 600px;
+  }
 
-    .hero-area{
-        padding: 0px;
-    }
+  .footer{
+    gap: 10px;
+  }
 
-    .hero-area-top{
-        margin-top: 150px;
-    }
+  .footer .piece img{
+    width: 150px
+  }
 
-    .hero-area-top .h1-tagline{
-        margin-top: 6px;
-    }
+  .links{
+    margin: 70px auto;
+    margin-top: 90px;
+    padding: 0px 2px;
+  }
 
+  .footer .word-mobile{
+    display: initial;
+  }
 
-    .img-desktop{
-        display: none;
-      }
-
-      .false_bg{
-        display: none;
-      }
-    
-      .img-mobile{
-       display: block;
-       width: calc(100%);
-       margin-top: 80px;
-       z-index: 11;
-       margin: auto;
-       position: relative;
-      }
-
-      .section-header{
-        padding: 0px;
-        margin-bottom: 70px;
-      }
-
-      .footer-content{
-        flex-direction: column;
-      }
-
-    .footer-content .box.right{
-        display: none;
-      }
-
-      .footer-content .box.left{
-        display: flex;
-        width: 100%;
-        justify-content: center;
-        align-items: center;
-        justify-items: center;
-      }
-
-      .footer-content .box.middle img{
-        margin-right: -5px;
-        margin-bottom: -120px;
-      }
+  .footer .word{
+    font-size: 14px;
+    font-weight: bold;
+    display: none;
+  }
 }
   
