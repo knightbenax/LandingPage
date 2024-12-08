@@ -14,7 +14,7 @@ body {
     font-size: 16px;
     margin: 0px;
     padding: 0px;
-    background: #1C1C1E;
+    background: #1D2124;
     -moz-osx-font-smoothing: grayscale;
   }
   
@@ -27,10 +27,12 @@ body {
   }
 
   .header {
+    width: var(--jt-content-width);
+    max-width: var(--jt-content-max-width);
     display: flex;
     align-items: center;
-    flex-direction: column;
-    background-image: radial-gradient(circle at 50% 0%, #574500 0%, #1C1C1E 52%);
+    flex-direction: row;
+    margin: auto;
   }
 
   .header-floater-parent{
@@ -102,16 +104,6 @@ body {
     display: inherit;
     opacity: 0.65;
     margin: 0px;
-  }
-
-  .app-preview{
-    position: relative;
-    width: var(--jt-app-preview-width);
-max-width: var(--jt-app-preview-max-width);
-margin: auto;
-margin-top: 80px;
-display: flex;
-justify-content: center;
   }
 
   .img-desktop{
