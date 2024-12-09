@@ -7,7 +7,7 @@
 
 @media (max-width: 768px) {
     :root{
-        --jt-content-width: 92%;
+        --jt-content-width: 90%;
         --jt-content-max-width: 1320px;
         --jt-app-preview-width: 92%;
         --jt-app-preview-max-width: 1540px;
