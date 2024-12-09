@@ -24,6 +24,10 @@
     position: relative;
   }
 
+  .h1-tagline.bra{
+    padding-left: 5px;
+  }
+
   .header-mobile .h1-tagline{
     font-size: 18px;
    }
@@ -31,6 +35,10 @@
   .h1-tagline{
     line-height: 1.4;
     margin-top: 5px;
+  }
+
+  .h1-tag{
+    font-size: 18px;
   }
 
   .header-mobile-top{
