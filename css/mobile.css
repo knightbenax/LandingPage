@@ -37,6 +37,11 @@
     margin-top: 5px;
   }
 
+  .h1-tagline a{
+    color: #ffffff;
+    text-decoration: none;
+  }
+
   .h1-tag{
     font-size: 18px;
   }

@@ -31,14 +31,14 @@ body {
     top: 0px;
     left: 0px;
     right: 0px;
-    height: 500px;
+    /* height: 500px; */
     overflow: hidden;
-    filter: blur(18px);
-    -webkit-filter: blur(18px);
+    filter: blur(30px);
+    -webkit-filter: blur(30px);
   }
 
   .header-image .overlay{
-    opacity: 0.7;
+    opacity: 0.45;
     background: #1D2124;
     position: absolute;
     top: 0px;
@@ -164,6 +164,11 @@ body {
     font-weight: bold;
     margin: 0px;
     margin-top: 10px;
+  }
+
+  .h1-tagline a{
+    color: #ffffff;
+    text-decoration: none;
   }
 
   .h1-hello{
