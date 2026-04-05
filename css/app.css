@@ -194,7 +194,7 @@ body {
     padding: 0px 4px;
     width: var(--jt-content-width);
     max-width: var(--jt-content-max-width);
-    margin: auto;
+    margin: 0px auto 20px;
     align-items: flex-end;
     z-index: 10;
     position: relative;
